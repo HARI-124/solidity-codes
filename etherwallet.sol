@@ -17,7 +17,7 @@ contract wallet{
             owner.transfer(amount);
 
         }
-
+jlyljhbvljhblkjnblmnbb.jk
         function checkbalance() external view returns(uint ){
             return address (this).balance;
         }
